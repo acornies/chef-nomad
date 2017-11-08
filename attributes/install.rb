@@ -32,8 +32,8 @@ default['nomad'].tap do |nomad|
       )
     else
       %w(
-        0.7.0-beta1/nomad_0.7.0-beta1_linux_amd64.zip
-        174794d96d2617252875e2e2ff9e496120acc4a97be54965c324b9a5d11b37ab
+        0.7.0/nomad_0.7.0_linux_amd64.zip
+        b3b78dccbdbd54ddc7a5ffdad29bce2d745cac93ea9e45f94e078f57b756f511
       )
     end
 end
